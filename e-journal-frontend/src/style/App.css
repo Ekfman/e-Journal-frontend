@@ -1,5 +1,5 @@
 .app{
-    background: url("/assets/pinkSkyArchitecture.jpg")no-repeat center fixed;
+    background: url("/src/style/assets/pink-blue-sky.jpg")no-repeat center fixed;
     background-size: cover;
     display: flex;
     flex-direction: column;

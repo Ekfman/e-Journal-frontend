@@ -1,4 +1,4 @@
-// import "./App.css";
+import "../style/App.css"
 import { Link, Routes, Route, useNavigate } from "react-router-dom";
 import CreateEntry from "./CreateEntry";
 import { useEffect, useState } from "react";
